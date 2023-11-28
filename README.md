@@ -12,7 +12,7 @@ Hi, I'm Sandra. I began my career as a web developer, learning coding and web te
 
 # Courses
 
-- Manual Software Testing Course - SmartInIt Code Academy [Certificate](https://drive.google.com/file/d/1muazSQFQ-i7vjRm48xIr8-13WDR6Qtok/view?usp=drive_link)
+- Manual Software Testing Course - SmartInIt Code Academy [Certificate](https://drive.google.com/file/d/1YO02-M3cEOqm9-XhjwmOtW5NxW_qal-S/view?usp=sharing)
 - Manual Testing+Agile with Jira Tool - SDET - QA
 - Javascript Testing Introduction - Academind
 - Cypress End-To-End testing - Academind
