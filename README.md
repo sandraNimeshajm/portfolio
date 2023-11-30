@@ -73,7 +73,7 @@ Hi, I'm Sandra. I began my career as a web developer, learning coding and web te
 - skilled in using Figma to inspect designs and extract CSS code
 - capable of extracting assets and measurements
 
-  **Git**
+**Git**
 
 - skilled in using Git for tracking changes and collaborating on projects
 - comfortable with Git commands for committing, pushing, and pulling code
@@ -102,11 +102,27 @@ Hi, I'm Sandra. I began my career as a web developer, learning coding and web te
 - [Bug report](https://docs.google.com/spreadsheets/d/1SFEbFX0Fah084PgjzVTC28La65SERybuRmDQkNOZfoE/edit?usp=sharing)
 - [Test report](https://docs.google.com/document/d/1f1ivutSctc_UdjnP478PVi41C6RzM2eiHSrRP80tVj0/edit?usp=sharing)
 
+### Test cases in AzureDevOps
+
+- Test Case #1. Check [the screenshot of the test case in AzureDevOps](https://drive.google.com/file/d/1r6ua21GEdk4inPLXrZX-aGXJJuZjf53P/view?usp=sharing).
+- Test Case #2. Check [the screenshot of the test case in AzureDevOps](https://drive.google.com/file/d/1qCArcwJtwh7chWHLh4dzv_xyj2TtcQ0W/view?usp=sharing).
+- Test Case #3. Check [the screenshot of the test case in AzureDevOps](https://drive.google.com/file/d/1T01Xe9RBZAWTqhsY9CyJ5tc6h_ncQnEj/view?usp=sharing).
+- Test Case #4. Check [the screenshot of the test case in AzureDevOps](https://drive.google.com/file/d/1f0BMS52vl0hU27gvMHV8rwaCnefO88oi/view?usp=sharing).
+- Test Case #5. Check [the screenshot of the test case in AzureDevOps](https://drive.google.com/file/d/1YXv56AMGnwAJxN90hnD2oGoz-yKZkayq/view?usp=sharing).
+- Test Case #6. Check [the screenshot of the test case in AzureDevOps](https://drive.google.com/file/d/1LhLy-UL3jzXyxRKc1yDgDSK7cMRGWKsm/view?usp=sharing).
+
+### Bug reports in Jira
+
+- Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Exu6VxeUYt1-ajLBuiJYSINRYJMWo9lB/view?usp=sharing).
+- Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/14Qzj2wFfUs0fsGX93rLtfmwT5AZo0Wet/view?usp=sharing).
+- Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/19tcOdUGFcM-IyO3gw2OUhncEPBfiIDzS/view?usp=sharing).
+- Bug #4. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1pCif0NfXvALjhjWOtUfDOn6TG-G7_Hfe/view?usp=sharing).
+
 ### Mindmaps and diagrams
 
 - Functional decomposition of Login System. Check [the mindmap](https://www.figma.com/file/HeTEdA62NU7dfeEhNzimdU/Login-System---Functional-decomposition?type=whiteboard&node-id=0%3A1&t=ao9mQ4bNHFTP5Y7T-1).
 - State-transition diagram of the Login System. Check [the diagram](https://www.figma.com/file/YTLVK7bWc5n1ufulyMxZLr/Login-System---State-Transition?type=whiteboard&node-id=0%3A1&t=9CpW5t1WzvpgC2xR-1).
 
-### Scripts for PICT (pairwise testing)
+### Script for pairwise testing
 
 - Generating combinations for the Webshop consisting of 5 fields, where possible values of the one field depend on the values of another field. See [the script](https://docs.google.com/document/d/1uqHFahZtbKi1fNIV7QgRYe7GclZLwlJRC6_xQe74hmI/edit?usp=sharing)
