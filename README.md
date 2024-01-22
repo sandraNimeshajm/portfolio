@@ -8,7 +8,7 @@
 
 # About me
 
-Hi, I'm Sandra. I began my career as a web developer, learning coding and web technologies. I later found that Quality Assurance (QA) was a better fit for me because I enjoy paying attention to details and solving problems effectively. I transitioned to a QA role to leverage these skills and ensure top-notch product quality. Since the start of 2023, I've dedicated myself to the pursuit of becoming a Quality Assurance professional. It's been a fulfilling journey, and I'm delighted to have found a niche where I can continually evolve. My aspiration is to excel in ensuring the excellence of products and services. I envision the QA role as a platform to contribute, at the very least, in making the digital sphere more inclusive for everyone. Within this portfolio, I aim to share my comprehensive understanding of QA alongside exhibiting the practical skills acquired through both formal courses and self-study. I am resolute in my commitment to advancing in this field. Lately, I've ventured into learning test automation, placing my primary focus on expanding and refining my expertise in this domain.
+Hi, I'm Sandra. I began my career as a web developer, learning coding and web technologies. I later found that Quality Assurance (QA) was a better fit for me because I enjoy paying attention to details and finding bugs. I transitioned to a QA role to leverage these skills and ensure top-notch product quality. Since the start of 2023, I've dedicated myself to the pursuit of becoming a Quality Assurance professional. It's been a fulfilling journey, and I'm delighted to have found a niche where I can continually evolve. My aspiration is to excel in ensuring the excellence of products and services. I envision the QA role as a platform to contribute, at the very least, in making the digital sphere more inclusive for everyone. Within this portfolio, I aim to share my comprehensive understanding of QA alongside exhibiting the practical skills acquired through both formal courses and self-study. I am resolute in my commitment to advancing in this field. Lately, I've ventured into learning test automation, placing my primary focus on expanding and refining my expertise in this domain.
 
 # Courses
 
@@ -34,7 +34,6 @@ Hi, I'm Sandra. I began my career as a web developer, learning coding and web te
 **Exploratory testing**
 
 - adept at employing exploratory testing techniques to uncover software issues through intuitive and dynamic testing approaches
-- familiar with using Whittaker’s test tours
 
 **Test documentation**
 
