@@ -18,6 +18,7 @@ Hi, I'm Sandra. I began my career as a web developer, learning coding and web te
 - Cypress End-To-End testing - Academind
 - The Complete JavaScript Course: From Zero To Expert by Jonas Schmedtman - Udemy
 - Build Responsive Real-World Websites with HTML and CSS by Jonas Schmedtman - Udemy
+- Introduction to POSTMAN - A Beginners guide - Udemy
 
 # Skills
 
@@ -77,6 +78,13 @@ Hi, I'm Sandra. I began my career as a web developer, learning coding and web te
 - skilled in using Git for tracking changes and collaborating on projects
 - comfortable with Git commands for committing, pushing, and pulling code
 - knowledgeable in creating repositories and managing project versions
+
+**API Testing**
+
+- using Postman to perform Basic CRUD(Create, Read, Update, Delete) operations
+- learnt about Environment, Global and Collection Variables
+- created Collections to store and organize requests
+- authentication using Postman
 
 # Projects
 
